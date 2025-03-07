@@ -2,8 +2,8 @@
 
 | Surname      | First Name | Class     | Github user name                        |
 | :----------- | :--------- | :-------- | :-------------------------------------- |
-| Mamilov      | Yachja     | F2        | YachjaMamilov(https://github.com/YachjaMamilov) |
-| SURNAME2     | FirstName2 | G2.C1     | [UserName](https://github.com/UserName) |
+| Mamilov      | Yachja     | 2B        | YachjaMamilov(https://github.com/YachjaMamilov) |
+| Allemeersch     | Jonathan | 2B     | JonathanAllemeersch(https://github.com/JonathanAllemeersch) |
 
 This Github-repository contains all the necessary information you need to prepare and write the paper for the subject Research Methods.
 
